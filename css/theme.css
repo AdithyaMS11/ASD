@@ -10,6 +10,7 @@ body{
 /* Add a background color to the top navigation */
 .topnav {
     background-color:white;
+    background: rgba(255, 255, 255, 0.9); 
     overflow: hidden;
     width: 100%;
   }

@@ -18,14 +18,12 @@
     <img src="../images/tst1.jpg" alt="img"> <!-- the image -->
     <h1 class = 'imgtxt'>
     <span>TECHKSHETRA<span class='spacer'></span><br /><!-- span tag to beautify it efficiently -->
-    </h1> <!-- the text -->
+    </h1> 
+    <footer>
+    Rajagiri School of Engineering & Technology<br>Rajagiri Valley,Kakkanad<br>Kochi-682025<br>Kerala
+  </footer> 
 </div>
 <br><br><br>
-<div class='footnote'>
-<footer>
-    Rajagiri School of Engineering & Technology<br>Rajagiri Valley,Kakkanad<br>Kochi-682025<br>Kerala
-  </footer>
-</div>
   <div class="container">
   <center><h2>LOGIN</h2></center>
     <form action="../php/login.php" method = 'post'>
