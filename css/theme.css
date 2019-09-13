@@ -1,0 +1,37 @@
+h1  {
+    font-family: 'Calibri';
+    color: white;
+}
+body{
+    background-color:rgb(148, 78, 214);
+    margin: 0px;
+
+}
+/* Add a background color to the top navigation */
+.topnav {
+    background-color:white;
+    overflow: hidden;
+    width: 100%;
+  }
+  
+  /* Style the links inside the navigation bar */
+  .topnav a {
+    float: left;
+    color: grey;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  
+  /* Change the color of links on hover */
+  .topnav a:hover {
+    background-color:black;
+    color: whitesmoke;
+  }
+  
+  /* Add a color to the active/current link */
+  .topnav a.active {
+    background-color:  rgb(118, 11, 218);
+    color: white;
+  }
