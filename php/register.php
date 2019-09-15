@@ -19,7 +19,15 @@
       <input type="radio" name="type" value="teacher">Teacher<br><br>
       College ID:<br><input type="text" name="collegeid" placeholder="(Ex: u1703003)" required><br><br>
       Password:<br><input type="password" name="password" placeholder="Password" required><br><br>
-      <input type="submit" value="Create Account">
+      <br><br>DEPARTMENT:<br><br>
+      <input type="radio" name="type" value="cse" checked>Computer Science & Engineering<br><br>
+      <input type="radio" name="type" value="ece">Electronics and Communication Engineering<br><br>
+      <input type="radio" name="type" value="eee">Electrical and Electronics Engineering<br><br>
+      <input type="radio" name="type" value="me">Mechanical Engineering<br><br>
+      <input type="radio" name="type" value="civil">Civil Engineering<br><br>
+      <input type="radio" name="type" value="it">Information Technology<br><br><br>
+      <center><input type="submit" value="Create Account"></center>
+      <br><br>
    </form>
 </div>
 </body>

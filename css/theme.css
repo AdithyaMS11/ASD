@@ -7,6 +7,9 @@ body{
     margin: 0px;
 
 }
+#logout{
+  float: right;
+}
 /* Add a background color to the top navigation */
 .topnav {
     background-color:white;
