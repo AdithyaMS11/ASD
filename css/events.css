@@ -1,0 +1,59 @@
+.Workshops{
+
+        position: relative;
+        background-color: #f2f2f2;
+        width: 90%;
+        border-radius: 10px 10px 10px 10px;
+        left: 5%;
+        padding: 10px 10px 10px 10px;
+}
+ /* Three image containers (use 25% for four, and 50% for two, etc) */
+ .column {
+    float: left;
+    width: 20%;
+    padding: 0px 0px 0px 0px;
+  }
+  
+  /* Clear floats after image containers */
+  .row::after {
+    content: "";
+    clear: both;
+    display: table;
+  } 
+.img{
+   width: 20%;
+}
+.imgtxt{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+/* Coloring time */
+h4 span /* decorating the text within the span tag */
+{ 
+color: white; 
+font: bold 14px/18px Helvetica, Sans-Serif; 
+letter-spacing: -1px; 
+background: rgb(0, 0, 0); /* fallback color */ 
+background: rgba(0, 0, 0, 0.7); padding: 10px; 
+}
+h4 span.spacer { padding:0 5px; }
+
+.note{
+    position: relative;
+    background-color: #423e3e;
+    color: white;
+    width: 90%;
+    border-radius: 10px 10px 10px 10px;
+    left: 5%;
+    padding: 10px 10px 10px 10px;
+}
+.Competitions{
+        position: relative;
+        background-color: #f2f2f2;
+        width: 90%;
+        border-radius: 10px 10px 10px 10px;
+        left: 5%;
+        padding: 10px 10px 10px 10px;
+}
