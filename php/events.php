@@ -22,26 +22,37 @@
   <div class="row">
     <div class="column">
     <img src="../images/deepl.jpeg" alt="img" width="200" height="200"> <!-- the image -->
+     <center><div class="textblk">
+      <h4>Deep Learning</h4>
+      </div></center>
      </div>
     <div class="column">
     <img src="../images/selfd.jpg" alt="img" width="200" height="200"> <!-- the image -->
+   <div class="textblk">
+   <h4>Self Driving Cars</h4>
+      </div>
     </div>
     <div class="column">
     <img src="../images/iot.jpeg" alt="img" width="200" height="200"> <!-- the image -->
+    <div class="textblk">
+   <h4>IoT</h4>
+      </div>
     </div>
     <div class="column">
     <img src="../images/matlab.jpeg" alt="img" width="200" height="200"> <!-- the image -->
+    <div class="textblk">
+   <h4>Matlab</h4>
+      </div>
     </div>
     <div class="column">
     <img src="../images/hack.jpg" alt="img" width="200" height="200"> <!-- the image -->
+    <div class="textblk">
+   <h4>Ethical Hacking</h4>
+      </div>
     </div>
   </div>
   </div>
    <br>
-    Self driving cars
-    IoT
-    Matlab and Simulink
-    Ethical Hacking
 </div>
 <br><br><br>
 <div class = "Competitions">
@@ -50,28 +61,37 @@
   <div class="row">
     <div class="column">
     <img src="../images/treasure.jpg" alt="img" width="200" height="200"> <!-- the image -->
+    <div class="textblk">
+   <h4>Treasure Hunt</h4>
+      </div>
      </div>
     <div class="column">
     <img src="../images/robo.jpg" alt="img" width="200" height="200"> <!-- the image -->
+    <div class="textblk">
+   <h4>Robo Wars</h4>
+      </div>
     </div>
     <div class="column">
     <img src="../images/quiz.jpg" alt="img" width="200" height="200"> <!-- the image -->
+    <div class="textblk">
+   <h4>Tech Quiz</h4>
+      </div>
     </div>
     <div class="column">
     <img src="../images/drone.jpg" alt="img" width="200" height="200"> <!-- the image -->
+    <div class="textblk">
+   <h4>Drone Racing</h4>
+      </div>
     </div>
     <div class="column">
     <img src="../images/code.jpg" alt="img" width="200" height="200"> <!-- the image -->
+    <div class="textblk">
+   <h4>Code King</h4>
+      </div>
     </div>
   </div>
   </div>
-  <ol>
-    <li>Treasure Hunt</li>
-    <li>Robo Wars</li>
-    <li>Tech Trivia</li>
-    <li>Drone Racing</li>
-    <li>Code King</li>
-  </ol>
 </div>
+<br><br>
 </body>
 </html>

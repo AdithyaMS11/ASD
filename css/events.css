@@ -10,10 +10,27 @@
  /* Three image containers (use 25% for four, and 50% for two, etc) */
  .column {
     float: left;
+    text-align: center;
+    position: relative;
     width: 20%;
     padding: 0px 0px 0px 0px;
   }
-  
+  .textblk {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    align-content: center;
+    background-color: crimson;
+    padding: 0px 10px 0px 10px;
+    opacity: 0.6;
+    color: white;
+   
+  }
+  .textblk:hover{
+    background-color:crimson;
+    opacity: 1;
+  }
   /* Clear floats after image containers */
   .row::after {
     content: "";
@@ -22,6 +39,7 @@
   } 
 .img{
    width: 20%;
+  vertical-align: middle;
 }
 .imgtxt{
   position: absolute;
