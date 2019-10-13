@@ -4,7 +4,7 @@
 </head>
 <body>
 <div class="topnav">
-  <a href="../php/events.php">Events</a>
+  <a href="../php/levents.php">Events</a>
   <a href="../php/points.php">Points Table</a>
   <a href="../php/results.php">Results</a>
   <a href="../php/home.php" id = "logout">Logout</a>
